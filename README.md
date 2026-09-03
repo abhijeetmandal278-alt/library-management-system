@@ -286,6 +286,8 @@ All transaction routes require authentication.
 
 ## Demo
 
-📹 [Add link to your demo video here]
-🌐 **Live app:** [Add your deployed frontend URL here]
-🔗 **Backend API:** [Add your deployed backend URL here]
+📹 [Watch Demo Video](https://drive.google.com/file/d/1QcCAaKr-IXBeLECBJy_sidm-K37Odoe2/view?usp=sharing)
+
+🌐 **Live app:** [https://library-management-system-zeta-bay.vercel.app/](https://library-management-system-zeta-bay.vercel.app/)
+
+🔗 **Backend API:** [https://library-management-system-hfuo.onrender.com](https://library-management-system-hfuo.onrender.com)
